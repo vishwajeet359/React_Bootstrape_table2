@@ -1,0 +1,33 @@
+ 
+export const SidebarData =[
+    {
+        title:"Name",
+        path:"/",
+        cName:'nav-text'
+    },
+    {
+        title:"Email",
+        path:"/",
+        cName:'nav-text'
+    },
+    {
+        title:"Body",
+        path:"/",
+        cName:'nav-text'
+    },
+    {
+        title:"Subject",
+        path:"/",
+        cName:'nav-text'
+    },
+    {
+        title:"Course",
+        path:"/",
+        cName:'nav-text'
+    },
+    {
+        title:"City",
+        path:"/",
+        cName:'nav-text'
+    }
+];
